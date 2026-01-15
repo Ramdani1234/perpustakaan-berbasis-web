@@ -114,7 +114,7 @@ CREATE TABLE `tb_pengguna` (
 --
 
 INSERT INTO `tb_pengguna` (`id_pengguna`, `nama_pengguna`, `username`, `password`, `level`) VALUES
-(1, 'M ivan S', 'admin',md5('123'), 'Administrator'),
+(1, 'Ramdani', 'admin',md5('123'), 'Administrator'),
 (5, 'Mivan', 'ivan','123', 'Administrator');
 
 -- --------------------------------------------------------
