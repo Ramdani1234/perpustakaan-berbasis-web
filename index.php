@@ -436,7 +436,7 @@ include "inc/koneksi.php";
 			<div class="pull-right hidden-xs">
 			</div>
 			<strong>Copyright &copy;
-				<a href="https://www.facebook.com/">Muhammad Ivan Setiawan</a>.</strong> All rights reserved.
+				<a href="https://www.facebook.com/">Ramdani</a>.</strong> All rights reserved.
 		</footer>
 		<div class="control-sidebar-bg"></div>
 		-->
